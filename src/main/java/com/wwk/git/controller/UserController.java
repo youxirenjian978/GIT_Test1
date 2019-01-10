@@ -96,4 +96,7 @@ public class UserController extends BaseController {
         this.flushResponse(response,s);
     }
 
+    public void get(){
+        System.out.println("测试的东西！");
+    }
 }
