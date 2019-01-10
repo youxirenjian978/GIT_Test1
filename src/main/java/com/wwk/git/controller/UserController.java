@@ -97,7 +97,7 @@ public class UserController extends BaseController {
     }
 
     public void get(){
-        System.out.println("the new people I want to use it");
+        System.out.println("the new people I want to use it,w j s,j s,j s,j s!");
         System.out.println("测试的东西！");
         System.out.println("i am wwk1,i wangt to remove some one");
     }
